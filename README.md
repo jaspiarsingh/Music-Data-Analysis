@@ -1,7 +1,7 @@
 # Music Data Analysis ReadMe 
 
 ## Description 
- - This project is a collection of SQL commands used to query to the music database consisting of 11 tables.
+ -  Performing comprehensive data analysis on a music store database, including identifying top customers, best selling artists, and popular genres by country. It utilizes advanced SQL techniques such as aggregation, filtering, joining tables, and window functions to extract meaningful business insights.
 
 ## Tools Used 
  - MySQL and MySQL workbench to retrieve the data and import the tables from `.csv` files.
