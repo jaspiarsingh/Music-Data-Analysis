@@ -6,6 +6,29 @@
 ## Tools Used 
  - MySQL and MySQL workbench to retrieve the data and import the tables from `.csv` files.
 
+## Techniques Used:
+
+- **Sorting and Ordering**: 
+  - Used to rank and order data by specific columns.
+
+- **Aggregation**:
+  - Summing and counting data for analysis.
+
+- **Grouping**:
+  - Grouping data to perform aggregated calculations.
+
+- **Filtering**:
+  - Filtering data based on specific criteria.
+
+- **Joining Tables**:
+  - Combining data from multiple tables.
+
+- **Window Functions**:
+  - Ranking and partitioning data.
+
+- **Subqueries**:
+  - Nested queries for filtering and data preparation.
+
 ## Summary of Findings
 1. Senior Most Employee
 The senior-most employee based on job title level was identified using the highest level value.
